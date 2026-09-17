@@ -121,3 +121,4 @@ if(Compra >= 500)  {
 } else {
     console.log("COMPRA SEM DESCONTO")
 }
+

@@ -190,4 +190,16 @@ nomes[3]= "Ana";//Altere o valor na posição específicada
 
 console.log(nomes.length);//Mostra o tamanho do Array
 
+//Exercício 07 - Lista de frutas
+//Crie um array chamado frutas contendo 5 frutas/.
+//Depois.
+//1.  Exiba o array completo.
+//2.  Exiba a primeira fruta.
+//3.  Exiba a terceira fruta.
+//4.  Exiba a quantidade de frutas.
+
+
+//07
+
+//                0       1     
 

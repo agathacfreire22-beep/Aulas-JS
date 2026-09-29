@@ -157,15 +157,15 @@
 //• Entre 20 e 30 → "Agradável"
 //• Menor que 20 → "Frio"
 
-let temperatura = [15,22,30,34,18,10,27]
-for (let index = 0; index < temperatura.length; index++) {
+// let temperatura = [15,22,30,34,18,10,27]
+// for (let index = 0; index < temperatura.length; index++) {
 
-    if (temperatura[index] > 30) {
-    console.log(temperatura[index]+ " Quente ")  
+//     if (temperatura[index] > 30) {
+//     console.log(temperatura[index]+ " Quente ")  
 
-} else if (temperatura[index] >= 20 && temperatura[index] <= 30){
-    console.log(temperatura[index]+ " Agradável ")
-}else{
-    console.log(temperatura[index]+ " Frio ")
- }
-}
+// } else if (temperatura[index] >= 20 && temperatura[index] <= 30){
+//     console.log(temperatura[index]+ " Agradável ")
+// }else{
+//     console.log(temperatura[index]+ " Frio ")
+//  }
+// }
